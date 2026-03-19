@@ -34,11 +34,6 @@ const projects = [
     description:
       'Experiments and ideas around WhatsApp automation, workflow tools, and software systems that help businesses reduce manual work.',
   },
-  {
-    title: 'SATOSHI53',
-    description:
-      'A Bitcoin content and media brand focused on monetary ideas, resilience, education, and digital culture.',
-  },
 ]
 
 const skills = [
