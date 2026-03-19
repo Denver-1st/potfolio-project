@@ -43,7 +43,6 @@ const skills = [
   'System design',
   'Workflow design',
   'Bitcoin product exploration and building',
-  'Digital brand building',
 ]
 
 export default function App() {
